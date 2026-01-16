@@ -1,0 +1,126 @@
+<?php
+session_start();
+$lang = $_SESSION['lang'] ?? 'en';
+
+$title = "CEKA Academy";
+
+// Ana başlıklar ve alt başlıklar & dosyalar
+$accordionData = [
+    "Modern Aquaculture RAS Systems" => [
+        ['title' => 'Introduction to RAS Systems', 'file' => 'blog1e.php'],
+        ['title' => 'Advantages of RAS in Modern Aquaculture', 'file' => 'blog2e.php'],
+        ['title' => 'Designing Effective Filtration Systems', 'file' => 'blog3e.php'],
+        ['title' => 'Importance of Water Quality in Aquaculture', 'file' => 'blog4e.php'],
+        ['title' => 'Sustainable Aquaculture Practices', 'file' => 'blog5e.php'],
+        ['title' => 'Future Trends in Recirculating Aquaculture', 'file' => 'blog6e.php'],
+    ],
+    "Plastic vs Steel Tanks: Why Choose Plastic?" => [
+        ['title' => 'Plastic vs Steel Tanks: Why Choose Plastic?', 'file' => 'blog7e.php'],
+    ]
+];
+
+$blogPath = 'academyfiles/';
+
+include 'Utils/header.php';
+include 'Elements/navbar.php';
+?>
+
+<main class="max-w-screen-xl mx-auto px-6 py-6">
+
+  <h1 class="text-3xl font-bold mb-6">CEKA Academy</h1>
+
+  <?php foreach ($accordionData as $mainTitle => $blogs): ?>
+  <div class="mb-8 border rounded-md">
+    <button
+      class="w-full text-left px-5 py-3 text-lg font-semibold bg-gray-100 hover:bg-gray-200 focus:outline-none flex justify-between items-center"
+      type="button"
+      onclick="toggleMainAccordion(this)"
+      aria-expanded="false"
+    >
+      <?php echo htmlspecialchars($mainTitle); ?>
+      <svg class="w-6 h-6 transition-transform" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/>
+      </svg>
+    </button>
+    <div class="hidden px-6 py-4" role="region">
+      <?php foreach ($blogs as $index => $blog): ?>
+      <div class="mb-2 border rounded">
+        <button
+          class="w-full text-left px-4 py-2 font-semibold bg-gray-200 hover:bg-gray-300 focus:outline-none flex justify-between items-center"
+          type="button"
+          onclick="toggleSubAccordion(this)"
+          aria-expanded="false"
+        >
+          <?php echo htmlspecialchars($blog['title']); ?>
+          <svg class="w-5 h-5 transition-transform" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/>
+          </svg>
+        </button>
+        <div class="hidden px-4 py-3 bg-white border-t" role="region">
+          <?php
+            $file = $blogPath . $blog['file'];
+            if (file_exists($file)) {
+              include $file;
+            } else {
+              echo "<p class='text-red-600'>Content file missing: {$blog['file']}</p>";
+            }
+          ?>
+        </div>
+      </div>
+      <?php endforeach; ?>
+    </div>
+  </div>
+  <?php endforeach; ?>
+
+</main>
+
+<script>
+  function toggleMainAccordion(button) {
+    const expanded = button.getAttribute('aria-expanded') === 'true';
+    const parentDiv = button.parentElement;
+    const contentDiv = button.nextElementSibling;
+
+    // Tüm ana akordiyonları kapat
+    document.querySelectorAll('main > div > div[role="region"]').forEach(div => div.classList.add('hidden'));
+    document.querySelectorAll('main > div > button[aria-expanded="true"]').forEach(btn => {
+      btn.setAttribute('aria-expanded', 'false');
+      btn.querySelector('svg').style.transform = 'rotate(0deg)';
+    });
+
+    if (!expanded) {
+      contentDiv.classList.remove('hidden');
+      button.setAttribute('aria-expanded', 'true');
+      button.querySelector('svg').style.transform = 'rotate(180deg)';
+    }
+  }
+
+  function toggleSubAccordion(button) {
+    const expanded = button.getAttribute('aria-expanded') === 'true';
+    const parentDiv = button.parentElement;
+    const contentDiv = button.nextElementSibling;
+
+    // Aynı ana akordiyon içindeki diğer alt akordiyonları kapat
+    const container = button.closest('div[role="region"]');
+    container.querySelectorAll('div[role="region"]').forEach(div => {
+      if (div !== contentDiv) div.classList.add('hidden');
+    });
+    container.querySelectorAll('button[aria-expanded="true"]').forEach(btn => {
+      if (btn !== button) {
+        btn.setAttribute('aria-expanded', 'false');
+        btn.querySelector('svg').style.transform = 'rotate(0deg)';
+      }
+    });
+
+    if (!expanded) {
+      contentDiv.classList.remove('hidden');
+      button.setAttribute('aria-expanded', 'true');
+      button.querySelector('svg').style.transform = 'rotate(180deg)';
+    } else {
+      contentDiv.classList.add('hidden');
+      button.setAttribute('aria-expanded', 'false');
+      button.querySelector('svg').style.transform = 'rotate(0deg)';
+    }
+  }
+</script>
+
+<?php include 'Elements/footer.php'; ?>

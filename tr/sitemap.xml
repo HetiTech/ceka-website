@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Ana Sayfalar -->
+  <url>
+    <loc>https://www.cekaendustriyel.com/?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/about-us.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/contact.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/catalogue.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/academy.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/tanklar.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Ürün Sayfaları -->
+  <url>
+    <loc>https://www.cekaendustriyel.com/tank-pe.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/tank-pp.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/tank-ss.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/airfilter.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/basic-filters.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/compact-filters.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/filtration-equipments.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/protein-skimmers.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/pump.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/sand-filters.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/waterfilter.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cekaendustriyel.com/cnc-kesim.php?lang=tr</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog Yazıları (Sadece Türkçe) -->
+  <?php
+  $blogs = 27;
+  for ($i = 1; $i <= $blogs; $i++):
+  ?>
+  <url>
+    <loc>https://www.cekaendustriyel.com/academyfiles/blog<?= $i ?>t.php</loc>
+    <lastmod>2025-02-01</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <?php endfor; ?>
+
+</urlset>

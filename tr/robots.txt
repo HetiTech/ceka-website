@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /Utils/
+Disallow: /Elements/
+Allow: /
+
+Sitemap: https://www.cekaendustriyel.com/sitemap.xml
