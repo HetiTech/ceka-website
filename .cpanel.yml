@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/cekaendus/public_html/
+    - /bin/cp -R tr/* $DEPLOYPATH
