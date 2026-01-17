@@ -1,0 +1,1095 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1764253801424,
+    "data": [
+        {
+            "type": "folder",
+            "name": "Elements"
+        },
+        {
+            "type": "folder",
+            "name": "Files"
+        },
+        {
+            "type": "folder",
+            "name": "Products"
+        },
+        {
+            "type": "folder",
+            "name": "Utils"
+        },
+        {
+            "type": "file",
+            "name": "about-us.php",
+            "size": 6161,
+            "hash": "d3a94515e0b3b32a60abb80b5c08942c1c4abdd873ef109f62e35b4f8aa37295"
+        },
+        {
+            "type": "file",
+            "name": "academy-products.php",
+            "size": 9172,
+            "hash": "cf4891a0e76bc3e3bdcef0b42654f82be109001b8d48b9923ae899b0aab1c72c"
+        },
+        {
+            "type": "file",
+            "name": "academy-tech.php",
+            "size": 17103,
+            "hash": "4aa4450a6b05ff44a175248c910ebf5f1e9f1fd8deba6ce1df9fe1d7635ec5e4"
+        },
+        {
+            "type": "file",
+            "name": "academy.php",
+            "size": 4483,
+            "hash": "c12997b19c9ea625b720194b9f59b5a8cce9ab3cb716d579c061bfd960c9d427"
+        },
+        {
+            "type": "file",
+            "name": "academyEng.php",
+            "size": 4604,
+            "hash": "c17730395f8c5a0f638c2d0557c62b8c7631eb24452cda769edf453736dbdb0f"
+        },
+        {
+            "type": "folder",
+            "name": "academyfiles"
+        },
+        {
+            "type": "file",
+            "name": "agirlikhesap.php",
+            "size": 9286,
+            "hash": "c272b9120880060f5b32ebb260b086764d1df027192c51e6a153c0d6c14a2a10"
+        },
+        {
+            "type": "file",
+            "name": "airfilter.php",
+            "size": 2584,
+            "hash": "43b3b001fc89ff144a87049174c02f7bcf12f3f85f7b970b02f0af8ad0f12040"
+        },
+        {
+            "type": "file",
+            "name": "basic-filters.php",
+            "size": 2295,
+            "hash": "3e2a6902d7cf94ef3b1da81b97470e6031d0ac5c9eab3098fadf61cb8ee6bd97"
+        },
+        {
+            "type": "file",
+            "name": "catalogue.php",
+            "size": 545,
+            "hash": "ff7fa48472fb1af33ee4317d0765bdcc11e2699fc15c165e4d2f618ae17f1d36"
+        },
+        {
+            "type": "file",
+            "name": "cnc-kesim.php",
+            "size": 3346,
+            "hash": "73f6e4db0d8fd1fdf94fb7cffae11816624d494d3e36eebe372974df78e49e97"
+        },
+        {
+            "type": "file",
+            "name": "compact-filters.php",
+            "size": 2866,
+            "hash": "cae08dd97d9b2a914dcb19d6efb5d8a7d705b323acfaf35494c52e305e4d3921"
+        },
+        {
+            "type": "file",
+            "name": "contact.php",
+            "size": 1683,
+            "hash": "8083c24a379a837d7f8bfa440723cda95d818b438d8a2cfd6ad3473dce39e974"
+        },
+        {
+            "type": "file",
+            "name": "filtration-equipments.php",
+            "size": 5297,
+            "hash": "db31b0c4648b3341d08a60ac5cb90b0165acbcd810da59d1fc070f3a7fd64d7a"
+        },
+        {
+            "type": "file",
+            "name": "fittings.php",
+            "size": 8465,
+            "hash": "c6bc530c996e43f85d904aefa765f3011ca3151c20009a87416d843be929ac52"
+        },
+        {
+            "type": "file",
+            "name": "index.php",
+            "size": 10691,
+            "hash": "882634ffd04b0365bc05cd488b3e64d848438875eec2170f8887a52b51317158"
+        },
+        {
+            "type": "folder",
+            "name": "mainimage"
+        },
+        {
+            "type": "file",
+            "name": "protein-skimmers.php",
+            "size": 7096,
+            "hash": "9ac701f57289ce943c37392d3c0aba7d10acb8427198ff1e3bfe4c943d44c0c6"
+        },
+        {
+            "type": "file",
+            "name": "pump.php",
+            "size": 816,
+            "hash": "3bc3febabe8f8e36008ef83b97e4ce0d38ad075e33378759545efde43806fc32"
+        },
+        {
+            "type": "file",
+            "name": "robots.txt",
+            "size": 116,
+            "hash": "3833773961c23585f7a6de95cea2ad21c6ee099eea5b2f26f018705f0f4d4c27"
+        },
+        {
+            "type": "file",
+            "name": "sand-filters.php",
+            "size": 2360,
+            "hash": "0e683a7c56bde1a1fba02a962ac6e0608fb2e0c99131daa1e7c5a4b10f8b1639"
+        },
+        {
+            "type": "file",
+            "name": "sitemap.xml",
+            "size": 3155,
+            "hash": "60f730b1ea1971d8efd9d0b64bbed30ddcffd5c978bc44510c2ff056e15a0fa8"
+        },
+        {
+            "type": "file",
+            "name": "tailwind.config.js",
+            "size": 67,
+            "hash": "92d76861a8f7bd8954661405e4244cb2e15ed12542b6442c6a8c750a174b8fb2"
+        },
+        {
+            "type": "file",
+            "name": "tank-pe.php",
+            "size": 12978,
+            "hash": "42eaa64bf11a616192c870d73a9c065c41b2f3156396b0c15727475dfc907af7"
+        },
+        {
+            "type": "file",
+            "name": "tank-pp.php",
+            "size": 13784,
+            "hash": "2c29217f80623eef6bb693e04e485745641c19f99d5901a8af465e2b3ad0913c"
+        },
+        {
+            "type": "file",
+            "name": "tank-ss.php",
+            "size": 11511,
+            "hash": "0ad834d45cf3937c5976b316a3759ce6e3af65028d5890efb1512d44e382785c"
+        },
+        {
+            "type": "file",
+            "name": "tanklar.php",
+            "size": 8828,
+            "hash": "89181658d7f823b80b6cf1309a074530511ee453330a638693d7ad970defcfb4"
+        },
+        {
+            "type": "file",
+            "name": "waterfilter.php",
+            "size": 11754,
+            "hash": "5194a96149cd2a445a511961723f4fc2a876e06f00b82c2f97bf3600ade09c13"
+        },
+        {
+            "type": "file",
+            "name": "yedek.txt",
+            "size": 4782,
+            "hash": "39395dff8de7f48c18eca64e4ea2c755346647ecb0804268a3b6446f31adf37a"
+        },
+        {
+            "type": "file",
+            "name": "Elements/data.php",
+            "size": 5648,
+            "hash": "8c8faced8c216a1f721982fa6f0d84021d3b441fcee7c0152279e205b45dec0d"
+        },
+        {
+            "type": "file",
+            "name": "Elements/footer.php",
+            "size": 3656,
+            "hash": "178ea70ac6d9ebdb5496f7e66f4cb086ced4d8d29e8e2b680c04547e07bd0089"
+        },
+        {
+            "type": "file",
+            "name": "Elements/navbar.php",
+            "size": 6579,
+            "hash": "cdc1ef85a6926ec02543f8c0e73b3d10b7a967872f20abfc01cb906026d3505e"
+        },
+        {
+            "type": "file",
+            "name": "Files/CEKA Endüstriyel.pdf",
+            "size": 2083089,
+            "hash": "866450c49900aeca3da14748c36c0b3adba622bd7eb445705b2f08cfca78f751"
+        },
+        {
+            "type": "file",
+            "name": "Files/CEKA.jpg",
+            "size": 5995,
+            "hash": "3791b1325257887293b7fb639289bcd1c76d2f136d9e4609ceb6237e9dd22a10"
+        },
+        {
+            "type": "file",
+            "name": "Files/CekaProductCatalogue.pdf",
+            "size": 5759251,
+            "hash": "67a083eb48185b7de2fcde673df571695747a548adbee9695f135be2f8a66505"
+        },
+        {
+            "type": "folder",
+            "name": "Files/Renders"
+        },
+        {
+            "type": "file",
+            "name": "Files/ecowac.png",
+            "size": 32644,
+            "hash": "e9c8cba1f64b0f54a62f76a1cc912f52da6cda70f16d747a1ee361c9895263b9"
+        },
+        {
+            "type": "file",
+            "name": "Files/flans_resim.png",
+            "size": 170801,
+            "hash": "aa5012b3196a395d208caf9a6481f945ddcf5fbc83d434a27a2d9424b0a9eec1"
+        },
+        {
+            "type": "folder",
+            "name": "Files/foto"
+        },
+        {
+            "type": "file",
+            "name": "Files/logo-bg.png",
+            "size": 20361,
+            "hash": "a5ff39680118cfaff02f9abffb17a34665ae2201f0fd4f1db3b73bef8c3e2d5a"
+        },
+        {
+            "type": "file",
+            "name": "Files/logo-circular-bg.png",
+            "size": 6593,
+            "hash": "db73e5e879c37780f2d97cc18d0828255583a5590825de2231b744b0420fde43"
+        },
+        {
+            "type": "file",
+            "name": "Files/logo-full-bg.png",
+            "size": 40234,
+            "hash": "4f30827ef956e3dc5a83d8a1e466eb71c129e0727ff542eff1f55a24523e8c60"
+        },
+        {
+            "type": "file",
+            "name": "Files/logo-full.png",
+            "size": 20681,
+            "hash": "1166e1d7f0941c71f8b57412e0524926ff8984e543ec9805325c51e6572ac07d"
+        },
+        {
+            "type": "file",
+            "name": "Files/logo.png",
+            "size": 6419,
+            "hash": "8de527e2517c284001ef34d3b0b670393ae5e67b8567888b41e6a0b9ed1daf5f"
+        },
+        {
+            "type": "file",
+            "name": "Files/manson_resim.png",
+            "size": 105498,
+            "hash": "5e58e6bf3f1661c16faa77af14cdbdfe5b05be82ac2838cc74c2254e1713db68"
+        },
+        {
+            "type": "file",
+            "name": "Files/regexs.txt",
+            "size": 44,
+            "hash": "d7b0be0340ef51447b0711f54c8ddee4d2b710a8034d890ecb852dbcbde5b769"
+        },
+        {
+            "type": "file",
+            "name": "Files/stock2.png",
+            "size": 802989,
+            "hash": "529f3e0392c258780b90027fee48fef898690a227864b5e0c740f5109e4ca925"
+        },
+        {
+            "type": "file",
+            "name": "Files/stock1.jpg",
+            "size": 246313,
+            "hash": "582a5c80b793d5d2e19e84a835f8f98b6398b8f91dfec7252b7a5e8107d6a7fa"
+        },
+        {
+            "type": "file",
+            "name": "Files/stock3.png",
+            "size": 464155,
+            "hash": "442e08e6d7b880a2399a94517c51ea7d6dd1700b96e9effbb98ac270263e3a69"
+        },
+        {
+            "type": "file",
+            "name": "Products/aktif_karbon_koku_filtreleri.php",
+            "size": 3872,
+            "hash": "7d5d7c044f8d0ca55f65ea5c0bb710cd81abb9839175d29a368b4ad7d4fe9228"
+        },
+        {
+            "type": "file",
+            "name": "Products/protein_skimmer.php",
+            "size": 4124,
+            "hash": "add7faceca113f8f4a2ff99451f2bf1c7296dd8b9ba0a4da2154c5947c907d65"
+        },
+        {
+            "type": "file",
+            "name": "Products/tambur_filtre.php",
+            "size": 8440,
+            "hash": "c44dd8a32a86cc8e4b82c56fcfc37743632aaca32c64db4d04a4b014395df6c7"
+        },
+        {
+            "type": "file",
+            "name": "Utils/body.php",
+            "size": 1984,
+            "hash": "f0698e9c080cb113b708287dba092307ed6b33982302354a0ec03d330aecb2a7"
+        },
+        {
+            "type": "file",
+            "name": "Utils/header.php",
+            "size": 3161,
+            "hash": "866e2e3470cf5b86150bea5e56b67d205c1d0b9ed810463953691e194d72e98f"
+        },
+        {
+            "type": "file",
+            "name": "Utils/image-getter.php",
+            "size": 2179,
+            "hash": "1951e3d0ae6bda005f3610e316326f6f38a356de149be6a805b67a304673b416"
+        },
+        {
+            "type": "file",
+            "name": "Utils/lang.php",
+            "size": 1040,
+            "hash": "0d029956229f38d049f7bb84529422187e1c39aa0681a288f05d7fb1d718461a"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog10e.php",
+            "size": 2688,
+            "hash": "ec4cad46e7e23457dfaffa9324a2f65203a2925311934d3b902c4f5ece74d4ed"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog10t.php",
+            "size": 2893,
+            "hash": "c4d235fa2673d651f3d5e0d6b882601a9d015d8840dfc7ffc3f1d297e57c9d72"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog11e.php",
+            "size": 2528,
+            "hash": "b1ec2a9860a5dee8d6fcf9b7bf1000cc05302b7ec1a1d0deadb81619f5f1e7c2"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog11t.php",
+            "size": 2882,
+            "hash": "a6bff31f19df005c4affe832ff5b042f62c9b282936d4d74e7bf64061f67af36"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog12e.php",
+            "size": 2708,
+            "hash": "5c44af672ee709f0bc4f8084a3a79365c3c832650bfd243d53ca694d491bb8be"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog12t.php",
+            "size": 2911,
+            "hash": "265c7e55fe982d06869b19aa2abeaea91669719078c25a13586dd36deb14dac8"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog13t.php",
+            "size": 3796,
+            "hash": "2dc036ef258f90f7e6d7430163bd75b65c711f63c459359ff2db6d046d74c615"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog14t.php",
+            "size": 3472,
+            "hash": "d739553e5699cf49968b86dc340c97493444c6feb6ad2c5297b1f53eb5f5da98"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog15t.php",
+            "size": 3184,
+            "hash": "2c4c52da2c7e61dafd8282ec9099179e457951294e33e0e99dca9d3882cc6ab3"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog16t.php",
+            "size": 3302,
+            "hash": "2d191dc9b5b3e3b6733d162548e31c6f8510ecc9c47e267c680f071fd9633f23"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog17t.php",
+            "size": 3464,
+            "hash": "b53ca7d059621fbeb8ac9c070c854ba69d2dbdef6d11a41ab37faed2b57e6b9b"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog18t.php",
+            "size": 3690,
+            "hash": "db8101c1eaedd651840e158630f363ad5b4202e571ea3b33c7cafd53c4e1a849"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog19t.php",
+            "size": 2512,
+            "hash": "d76726800d4cd560bb05bc14694526d2f5a30f9079cb4679be9f3871b1e0b4f7"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog1e.php",
+            "size": 3578,
+            "hash": "e2b1cfaca599e2e855672862b36d6a818e71361f3ad3476842cbcb7723b32a3a"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog1t.php",
+            "size": 3832,
+            "hash": "a95d931c9e54938381b5be3dd927b332ad2daadebd9d8892db426883e0385697"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog20t.php",
+            "size": 2859,
+            "hash": "ede2eeb88adae6ae801086cf8702c7ca5cfc6978781d9801f75db8aff513d0b1"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog21t.php",
+            "size": 2684,
+            "hash": "fab127388a941d390b61ef0f316a3fb7e614e8fe227abaa57905e8b9b4fa0cd2"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog22t.php",
+            "size": 2746,
+            "hash": "4fb23db9605fcc80a8c50095e0bf8702524c2ca8ed5cfdcb47d5659705260c49"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog23t.php",
+            "size": 2713,
+            "hash": "64bb620fc02c95b0b834bc865bc160471d7be1ada268493418bf6d6680509cdb"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog25t.php",
+            "size": 1763,
+            "hash": "e4f4afa7e3ccbed441f2c9701794a73bbd1663b7cc52d8270de2ce4ff465f207"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog24t.php",
+            "size": 1705,
+            "hash": "9d9a33d6802fe3a9ab9f99493cfd943bb58f86a09d8c287d502eb8cd83dfbd17"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog26t.php",
+            "size": 1530,
+            "hash": "81cc4ef6186611714de88847a3ebb55606d184c20fc2899d679030f67f3fa5d0"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog27t.php",
+            "size": 1683,
+            "hash": "259988b21ffecfb3714e066fd1f817bc8f9d2716a9bb6999f9d30c811d681ed0"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog29t.php",
+            "size": 1337,
+            "hash": "133b5ab3c3b339e8da91425a9426062c6bcbce1f2a0b08a9ce6aad5db9b4bf78"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog28t.php",
+            "size": 1598,
+            "hash": "b16365b228a77333c77cabc702edc3bd4ba2af41889d6aa7241185c9b43c5ca8"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog2e.php",
+            "size": 1785,
+            "hash": "6b76779c009b9eaab4f4d5e68bdab96fbbf2d1ada837d9caeddcb810946ba829"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog2t.php",
+            "size": 2127,
+            "hash": "60ca44b0aa89a5821ff1f9505d83f4dc4b6f2193e026cae9917618569dcfe94e"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog30t.php",
+            "size": 1468,
+            "hash": "be84b90fb33174f6efde5428baae7429cb238a0ff91c680ed980b3aa034264b2"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog31t.php",
+            "size": 1357,
+            "hash": "7a4b4b534802fc23036c81bdfa4863e2593d3b193722b1eeadd790c18292cba3"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog32t.php",
+            "size": 1443,
+            "hash": "5a02ad5e389e741dfb4c651a0fb19c192423bcfef84ba50fb35196e4c06c1224"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog33t.php",
+            "size": 2659,
+            "hash": "5a7a2889a54d76c19ef61ba4025cdf01ecedfb9e989de952e45aa5858aa581fa"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog34t.php",
+            "size": 2169,
+            "hash": "17e8433392eb466edebbcb90a75cead96bae30343735f82d4577b9b7aa611603"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog35t.php",
+            "size": 1963,
+            "hash": "b3432e4be1ae7213f15554ec21946ddd7c4cfd524ae2860518d9d500c730657d"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog36t.php",
+            "size": 2039,
+            "hash": "48f242af43927d2da5f1951d446c8d469551168af3afd39817920fb0f9203623"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog37t.php",
+            "size": 2092,
+            "hash": "57d87bb686915e733d9accb667e5a15f95b4b490702683228ea6b5ce919fa1a8"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog38t.php",
+            "size": 2231,
+            "hash": "32bd73b31001ba2a63c457c7e26f4176a63ffb6fc73728533746a3d5d7b2de2a"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog39t.php",
+            "size": 2046,
+            "hash": "717381036c03774136d7052353bb4eeba0469526c1473c0fb33c7c580d4c4c5a"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog3e.php",
+            "size": 2322,
+            "hash": "e0ba711f207b6bfa44aad6044a4270d9b223e542f9745e24060392991b769fc6"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog3t.php",
+            "size": 2503,
+            "hash": "e93b44e9a4f82b010119312799e68fb28910a30607ae78182a90d616d3a457d3"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog40t.php",
+            "size": 1954,
+            "hash": "0da925d50126715fd056d2c15723454d7b138fc57a15a659375ca6ac3c60aead"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog41t.php",
+            "size": 1897,
+            "hash": "c2c8abdbc0764e65f547f7b26e531bc4c196c39e6ba20e1ba45a983f434142f2"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog42t.php",
+            "size": 2004,
+            "hash": "9cb1b49441cafddf6263d892c90b4e08d92fb48870f4ae7814d7dd26ee1c6a32"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog43t.php",
+            "size": 2684,
+            "hash": "f011699f70f5b2fb94d852022fba55357a0bc59ecd9d4eac8e48eeeed3a96742"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog44t.php",
+            "size": 2646,
+            "hash": "42711b7d3d9e5b5c4094647f0c4b0830a713c825545fbfc907a43b20b59bf9ff"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog45t.php",
+            "size": 2543,
+            "hash": "ce0a9842f97403e6162bcf38f0d44fa0fad88a3f4201c3f52b1c94b1e8dfa75a"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog46t.php",
+            "size": 2408,
+            "hash": "d17be33acef142c0ef575236a10f42a302a2529cc663c6ef11792fbe39e796e7"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog47t.php",
+            "size": 2427,
+            "hash": "68cb031d9778741c60b96d7973e83373a7da5d02c754fa18bb37ba36bd406163"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog48t.php",
+            "size": 2788,
+            "hash": "27bd5365e045536dae50b6f861e2451e51f755ccd2ecec1081e5daaff37f2188"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog49t.php",
+            "size": 1393,
+            "hash": "4ec081038e54f6ef64f4bc20d38a96ac1cf48d17c9a5b433dd9abdfa5b7edcf2"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog4e.php",
+            "size": 2745,
+            "hash": "8940300753bdcd8fda008033669863961e3996ca3fbb20e4f9160270a0d0de9c"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog4t.php",
+            "size": 2871,
+            "hash": "7ff26dab866391dffc9792d253ed3386a8e5eaff88f179ff0b43d6bff0dd33a9"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog50t.php",
+            "size": 1550,
+            "hash": "1192014338c63ae54353fc4aaf960561db6aaf452879b9dce766ef6f14afba78"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog51t.php",
+            "size": 1282,
+            "hash": "2cebdf64b892b1d1f5435754d31bbb65ab88de7ca479e15ef127b460f0b2de81"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog52t.php",
+            "size": 1254,
+            "hash": "717b5bb699cbb98e9a19f354d6b7eb0cc453408d300344543d7ee42b544a5f38"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog53t.php",
+            "size": 1140,
+            "hash": "858acd5be7fecd5f8e4cb19e57ecdd944ede21cf2971c359cc444e2637297f60"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog54t.php",
+            "size": 1140,
+            "hash": "cb8c4394c467385214507bf0a31c0ad119324a235b64dae388c1111b5d8037f9"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog55t.php",
+            "size": 1054,
+            "hash": "7425dd03df55dca518912f9b1418498af5a9aef033870b55eb29f12aff6ac8c8"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog56t.php",
+            "size": 1114,
+            "hash": "a1ac204ec6208e8c2d8b424918563737da6d978be0af990f18d9660a81260206"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog57t.php",
+            "size": 1297,
+            "hash": "fbc68a0d4a872ff7c76e67af23e0e7650d1b6a1cb8d8e1c883a7a774d75a8937"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog5e.php",
+            "size": 3389,
+            "hash": "1ff150256f1fda3533f7fa4b8bf0eeb03269d9f831644f0e364c2f293a438072"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog5t.php",
+            "size": 3615,
+            "hash": "db844f0c3e46ec18905f7853aedfb96206743b05bf371e84936c570ac10bae97"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog6e.php",
+            "size": 2710,
+            "hash": "ee3b9fdd6ddfd6350e9ea87f77605042c6a1722af4e2da803bda104605e071ae"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog6t.php",
+            "size": 3015,
+            "hash": "fe8e90252223e8c7b02e11cbe2ba6a95eb8ef5ac7172187246652b2a4419168d"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog7e.php",
+            "size": 3326,
+            "hash": "853604f32f63edd771aa8e21c50327ce69a078318a3c98f92e4c14745d61e9cf"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog7t.php",
+            "size": 3923,
+            "hash": "fd7c88e8a0c7681c8a6d05b0d97aab16951fa8486bcd95aa23e8f0c83df59000"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog8e.php",
+            "size": 3137,
+            "hash": "42d36ae6f22fe76c5a0b6daddab063841a30346ae4af307537c31545fadbac3e"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog8t.php",
+            "size": 3329,
+            "hash": "2a548aa15a137c6bab7f145a9673f31f905ab4bcb1a2b0a4429537ae69017e10"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog9e.php",
+            "size": 2835,
+            "hash": "b5d3581ad0e20e1832cc82921e2c5c353f6559fba89bce1dc47b08821923abb1"
+        },
+        {
+            "type": "file",
+            "name": "academyfiles/blog9t.php",
+            "size": 3026,
+            "hash": "6e94089ffbec3ecded4e2cdd19c7ca24cb2cebca33cbeacc190469ef41912a2d"
+        },
+        {
+            "type": "file",
+            "name": "mainimage/mainimage001a.png",
+            "size": 3117447,
+            "hash": "d22fdf3fc2591e61c49701c738332188c4bd2ea560ab71beae3df3b402c6c124"
+        },
+        {
+            "type": "file",
+            "name": "mainimage/mainimage002a.png",
+            "size": 1050983,
+            "hash": "77e795ab57f2a1b15dc53dbc276ddfb0899bc69007de19eb17ac876bb7d8fe96"
+        },
+        {
+            "type": "file",
+            "name": "mainimage/mainimage003a.png",
+            "size": 810377,
+            "hash": "f5fd6d0c4c3cbafa1e068c217034cdc93460bf8760b60ba7ceccd13e16f1e48e"
+        },
+        {
+            "type": "file",
+            "name": "mainimage/mainimage004a.png",
+            "size": 1726776,
+            "hash": "eb24bc0da2d2666e17e9b9b345e64e20e4fa616816a1134ef616d7dc455c0130"
+        },
+        {
+            "type": "file",
+            "name": "mainimage/mainimage005a.png",
+            "size": 3302930,
+            "hash": "17bcf12c3a3d5ec0990dd91ee4af85f308147d6cdb0bc317d1dcf7530e246296"
+        },
+        {
+            "type": "file",
+            "name": "mainimage/mainimage006a.png",
+            "size": 2680699,
+            "hash": "ac718aca5e311f7337490e87b46eb057a7ff64e30aab7ab1e97d428afc8f6f71"
+        },
+        {
+            "type": "file",
+            "name": "mainimage/mainimage007a.png",
+            "size": 1864037,
+            "hash": "2efc64e32c6a21c619de8b681a2f6c0909941e8c005d18dfc272723d0c7565b0"
+        },
+        {
+            "type": "file",
+            "name": "mainimage/mainimage008a.png",
+            "size": 1490861,
+            "hash": "5d0d574726cea59a4c46642b3f4dab8123b848b71d434fa0fe3f9dcad9d7a693"
+        },
+        {
+            "type": "file",
+            "name": "mainimage/mainimage009a.png",
+            "size": 2282697,
+            "hash": "4001e4c8a33f3bbb23648c49ec24a0b6f7ef7f12eea40ec7b7d647578bd0a5c8"
+        },
+        {
+            "type": "file",
+            "name": "mainimage/mainimage010a.png",
+            "size": 2077205,
+            "hash": "d00b953af75af6c3422f7e86749d02f782c09b555a8fab65d50ab80392a64ea4"
+        },
+        {
+            "type": "file",
+            "name": "mainimage/mainimage011a.png",
+            "size": 3814300,
+            "hash": "48739a794a46414d197f261de573e8ac0e5e9634654f314df10bd55b90238851"
+        },
+        {
+            "type": "folder",
+            "name": "Files/Renders/BasicFilters"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/Biotower.png",
+            "size": 1802756,
+            "hash": "48ffa21012fd268de864adc5e36e7dbdae031408f02443983125e5e9649c9317"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/Biotower2.png",
+            "size": 2202438,
+            "hash": "74e4a5c829ab366663afa43e86a649a24fd547e805f9a47e2b07c75a139ab930"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/BubbleBreaker.png",
+            "size": 1910992,
+            "hash": "ff46e829f0ababd46ab37c678f704463eb050ff928a6672703fcc560f04b33ae"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/Degazor.png",
+            "size": 2333069,
+            "hash": "f85e0c0db5dfa852d26c57b9f90e8cedef38f0feda62a6459479f88b873e00f1"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/KF.png",
+            "size": 991600,
+            "hash": "14ce3fe7f18192b3299d071e5b4f939dbde0b027d570cc16501a25169db97b23"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/KF2.png",
+            "size": 1936293,
+            "hash": "7807bb08578433aaffaa7d0774e00e044e826859045531600b31b161c86422ad"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/MBBR.png",
+            "size": 2299724,
+            "hash": "598ba81ff519b89a4dc12198c01948518602beaf4e1a911908368abcac83ebb3"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/Mixer.png",
+            "size": 692866,
+            "hash": "350d6a3241dc7be040dcf492b9ec4fb49447acfaf452540e4b59f89d77628fbb"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/OzonReaktor.png",
+            "size": 1808585,
+            "hash": "d8afe1c7d7838ed8305aa2cea2cba2cf84c4965464dcdde64f9c7dc671df0994"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/OzoneDestructor.png",
+            "size": 1704532,
+            "hash": "8e8b240dea69b6a83f94ad2390e9c0becd7b0070385c171832634c868f390e9f"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/PS-05.png",
+            "size": 2648937,
+            "hash": "266211c56ae9c1f839550c286d292166cab92272b05b66098d41700aaf7f211c"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/PS-160.png",
+            "size": 2298649,
+            "hash": "f0d9f58248b9558e70f16f46c67cb627aa33527d6ff8787e170a8e250945e121"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/PS-20.png",
+            "size": 2507748,
+            "hash": "1a69cd42d0bac321b7f921b21e0274df4ffb8e029a005f43b12466a09ccf483a"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/PS-240.png",
+            "size": 2263821,
+            "hash": "7dea2c3cbdeeec2bd13272d8696eb1375444efb0a175826178041f00a25b67bf"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/PS-600.png",
+            "size": 2850312,
+            "hash": "f823608b706a98c723fe8130ec4e08762435a65412385b954f8431e6ddefdd7e"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/PS-80.png",
+            "size": 2711864,
+            "hash": "bb9924e289397cf94d7d879a55787f10654101ff8f9c23cffa8918d9b7ae4fce"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/afcm10.png",
+            "size": 2282485,
+            "hash": "042f199dfb0a20d573640057846e320428f661b3a0e645ccd1b29be0dd0cbf6a"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/doubletank.jpeg",
+            "size": 126566,
+            "hash": "6b6082a6161af1264eba0a36d028c18174d8bb15271ff3cac77668f50fea3c7a"
+        },
+        {
+            "type": "folder",
+            "name": "Files/Renders/ground-tanks"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/petank1.png",
+            "size": 305545,
+            "hash": "4a9f40e2cff83600bdd64e9811aefa39ba9d19ddde376a788b0212f844f8d713"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/petank2.png",
+            "size": 898611,
+            "hash": "71ed9628f0508af4885aac02c48f85cc148603abe7c7a8881b7aaf7e519e7a28"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/rectangular.png",
+            "size": 2526335,
+            "hash": "d8fed8508f1709c1cfb8d546de2b7cf5a37c639ae252961cf1593073d10e2b02"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/sstank1.jpg",
+            "size": 749347,
+            "hash": "06fff4e1fefecb0064397541fff4e46a8c6fb5dea6ebc2d20b7fa26042a1b684"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/sstank2.jpeg",
+            "size": 232043,
+            "hash": "f0f3196d2c88e030071bd3ef323299ebd3e3287e685d3509e49fbcf78d1bfafb"
+        },
+        {
+            "type": "folder",
+            "name": "Files/Renders/stand-tanks"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/stand1.png",
+            "size": 451610,
+            "hash": "85d32920ddc381975e90d82bd162b4cffc883ff9365347398975418a1986107e"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/waterpe.jpg",
+            "size": 650520,
+            "hash": "20d9f07478f89d50b14b4d4eaade0f6bdec98f9cd2f6cbcec731644a58fe4405"
+        },
+        {
+            "type": "file",
+            "name": "Files/foto/PPtank1.webp",
+            "size": 575496,
+            "hash": "d091d313088cffd50cb49b68bb208842df7f8257e9437a3e999ade1c00163103"
+        },
+        {
+            "type": "file",
+            "name": "Files/foto/PPtank2.webp",
+            "size": 151790,
+            "hash": "da00380bc70efb9f21a05f222ba6d2b30f4e607ca001ffb94082c26af2c8807c"
+        },
+        {
+            "type": "file",
+            "name": "Files/foto/PPtank3.webp",
+            "size": 148306,
+            "hash": "75655a0124ee80551379c440b0646f8ef8490614a8cf3dddfd3d76be596b5edd"
+        },
+        {
+            "type": "file",
+            "name": "Files/foto/PPtank4.webp",
+            "size": 186616,
+            "hash": "bfe406695f21addc2bfc5b2107255f96e0251dd8841d0813d9dd8d41210a0a7e"
+        },
+        {
+            "type": "file",
+            "name": "Files/foto/airfilter1.webp",
+            "size": 72514,
+            "hash": "1e9b5ca67b6ee700c719a60a5064a62ed14979ae5c89251e37a546763d6cae61"
+        },
+        {
+            "type": "file",
+            "name": "Files/foto/airfilter2.webp",
+            "size": 137194,
+            "hash": "41e0b0edb5691ca6a33e67b41a8377c7c81c70631cd874e37786bbe209da243a"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/BasicFilters/BF2.png",
+            "size": 1810719,
+            "hash": "5a848352bae05b1951600e7fe9e7ac8c62493880a9267ac0ade1d50adfa8fd4d"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/BasicFilters/BF3.png",
+            "size": 666077,
+            "hash": "6b87ca118b7c5b4360df4ee832572c7176ace66aac15245d090f85419129a8c8"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/ground-tanks/ground1.png",
+            "size": 2677303,
+            "hash": "5b94c6e7c7d592f7e7d200cdedd8a339e3c46cdc65f5b6e53e12dc6779e74d84"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/ground-tanks/ground2.png",
+            "size": 2350381,
+            "hash": "ca51c3e5427557011ea74fb1a72979fccae3ce5820a4ea1c574831cbc103c2f3"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/ground-tanks/ground3.png",
+            "size": 2256939,
+            "hash": "eca10986327939054880e4d913684955937a858c5824cc4f43a61a596724e36b"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/ground-tanks/ground4.png",
+            "size": 2354470,
+            "hash": "8a48cf583acf491db5e864423b4496d0e44825e6d24ff1a929828cbac9aa662d"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/BasicFilters/BF1.png",
+            "size": 552097,
+            "hash": "9cff4ca52198fc2788f77e7422562a4901b9e15bcc2c17c10c4198ad86be0d65"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/stand-tanks/iptal.png",
+            "size": 2367043,
+            "hash": "fd1510ff4287a2bd869d79a536051813384f5865306336ad1661222200d9e63b"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/stand-tanks/stand2.png",
+            "size": 1560351,
+            "hash": "cc3a2e2db490a1018b6c2654eed4d719d6f53ce7160c5d280a70f0e595d15725"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/stand-tanks/stand3.png",
+            "size": 2416508,
+            "hash": "e16cc03fced536d837e5e800b5ebc8b6a02ca1bebf72588d5686d01f30f0084f"
+        },
+        {
+            "type": "file",
+            "name": "Files/Renders/stand-tanks/stand4.png",
+            "size": 2304584,
+            "hash": "19fc7d79171aeb3f92c4133cf386ffcca048e7b672f1a040a1ac77b525893bfc"
+        }
+    ]
+}
